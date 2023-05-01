@@ -1,0 +1,43 @@
+h1{
+    background-color: green;
+    color: white;
+
+}
+
+.text {
+    color: red;
+    background-color: rgb(179, 248, 248);
+}
+
+table, th, td {
+    border: 1px solid black;
+
+border-spacing: 0px;
+}
+
+th {
+    background-color: rgb(88, 14, 99) ;
+}
+
+td{
+    background-color: rgb(0, 190, 253);
+}
+
+.left {
+    border-right: 0px;
+}
+
+.right{
+    border-left: 0px;
+}
+
+img {
+   width: 200px;
+    margin-top: 0px;
+}
+
+video{
+    width: 300px;
+    margin-top: 10px;
+}
+
